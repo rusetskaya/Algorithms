@@ -1,0 +1,7 @@
+C:\6sem\AlgFirstLabFirst\AlgFirstLabFirst\bin\Debug\AlgFirstLabFirst.exe.config
+C:\6sem\AlgFirstLabFirst\AlgFirstLabFirst\bin\Debug\AlgFirstLabFirst.exe
+C:\6sem\AlgFirstLabFirst\AlgFirstLabFirst\bin\Debug\AlgFirstLabFirst.pdb
+C:\6sem\AlgFirstLabFirst\AlgFirstLabFirst\obj\Debug\AlgFirstLabFirst.csprojResolveAssemblyReference.cache
+C:\6sem\AlgFirstLabFirst\AlgFirstLabFirst\obj\Debug\AlgFirstLabFirst.csproj.CoreCompileInputs.cache
+C:\6sem\AlgFirstLabFirst\AlgFirstLabFirst\obj\Debug\AlgFirstLabFirst.exe
+C:\6sem\AlgFirstLabFirst\AlgFirstLabFirst\obj\Debug\AlgFirstLabFirst.pdb

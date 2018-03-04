@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2006
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgFirstLabFirst", "AlgFirstLabFirst\AlgFirstLabFirst.csproj", "{D430956B-8A05-4689-93F3-2A908ADF60E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgFirstLabSec", "AlgFirstLabSec\AlgFirstLabSec.csproj", "{47A9FA1F-DFC1-4102-AEEC-A0ED57F8E239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D430956B-8A05-4689-93F3-2A908ADF60E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D430956B-8A05-4689-93F3-2A908ADF60E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D430956B-8A05-4689-93F3-2A908ADF60E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D430956B-8A05-4689-93F3-2A908ADF60E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47A9FA1F-DFC1-4102-AEEC-A0ED57F8E239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47A9FA1F-DFC1-4102-AEEC-A0ED57F8E239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47A9FA1F-DFC1-4102-AEEC-A0ED57F8E239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47A9FA1F-DFC1-4102-AEEC-A0ED57F8E239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF8B41EE-31F1-4B74-9F16-BF0046CDD1A6}
+	EndGlobalSection
+EndGlobal
